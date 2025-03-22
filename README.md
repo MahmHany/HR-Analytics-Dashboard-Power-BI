@@ -15,13 +15,13 @@ This Power BI project provides a comprehensive analysis of HR data, offering ins
 
 <h2>Tech Stack </h2>
 
-- <b>Power BI – Data visualization and dashboard creation.</b> (21H2)
+- <b>Power BI – Data visualization and dashboard creation.</b>
 
-- <b>Power Query (M Language) – Data transformation and cleaning.</b> (21H2)
+- <b>Power Query (M Language) – Data transformation and cleaning.</b> 
 
-- <b>DAX (Data Analysis Expressions) – Custom measures and calculated fields.</b> (21H2)
+- <b>DAX (Data Analysis Expressions) – Custom measures and calculated fields.</b>
   
-- <b>SQL – Data extraction, transformation, and loading (ETL) from relational databases.</b> (21H2)
+- <b>SQL – Data extraction, transformation, and loading (ETL) from relational databases.</b> 
 
 
 <h2>Why This Project? </h2>
