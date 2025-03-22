@@ -26,7 +26,7 @@ This Power BI project provides a comprehensive analysis of HR data, offering ins
 
 <h2>Why This Project? </h2>
 
-- <b>This project is perfect for HR analysts, data professionals, and business leaders looking to leverage data for smarter HR decision-making. It provides actionable insights to optimize workforce strategies and improve employee satisfaction</b> (21H2)
+- <b>This project is perfect for HR analysts, data professionals, and business leaders looking to leverage data for smarter HR decision-making. It provides actionable insights to optimize workforce strategies and improve employee satisfaction</b> 
 
 <h2>Project walk-through:</h2>
 
