@@ -3,14 +3,25 @@ This Power BI project provides a comprehensive analysis of HR data, offering ins
 <br />
 
 
-<h2>Key Features</h2>
+## Key Features
 
-- <b>Employee Demographics – Breakdown of workforce by age, gender, department, and job role. TV shows.</b> 
-- <b>Attrition Analysis – Identify trends and factors contributing to employee turnover.</b>
-- <b>Performance Metrics – Evaluate employee performance and productivity trends.</b>
-- <b>Salary & Compensation Insights – Analyze pay distribution and equity across departments.</b>
-- <b> Hiring & Retention Trends – Track recruitment effectiveness and employee tenure.</b>
-- <b>Interactive Visualizations – Drill-down features for in-depth data exploration..</b>
+- **Employee Demographics: Workforce Breakdown**  
+This feature provides a detailed breakdown of the workforce, analyzing demographics by age, gender, department, and job role, offering insights into the composition of the employee base.
+
+- **Attrition Analysis: Turnover Trends and Factors**  
+The Attrition Analysis identifies trends and key factors contributing to employee turnover, helping to uncover patterns and potential areas for improving retention strategies.
+
+- **Performance Metrics: Employee Productivity Evaluation**  
+This section evaluates employee performance and productivity trends, providing metrics to assess individual and team contributions, supporting performance management initiatives.
+
+- **Salary & Compensation Insights: Pay Distribution Analysis**  
+Analyze salary distribution and equity across departments, offering insights into compensation fairness and identifying potential disparities for informed decision-making.
+
+- **Hiring & Retention Trends: Recruitment and Tenure Tracking**  
+Track recruitment effectiveness and employee tenure through hiring and retention trends, enabling organizations to optimize talent acquisition and improve long-term retention.
+
+- **Interactive Visualizations: In-Depth Data Exploration**  
+Interactive visualizations with drill-down features allow users to explore data in detail, filtering by demographics, departments, or other metrics for deeper workforce insights.
 
 
 <h2>Tech Stack </h2>
